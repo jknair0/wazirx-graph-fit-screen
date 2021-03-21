@@ -1,0 +1,12 @@
+{
+    "name" :"WazirX Graph Fit Screen",
+    "description": "Build an Extension!",
+    "version" : "1.0.0",
+    "manifest_version": 3,
+    "content_scripts": [
+        {
+          "matches": ["*://wazirx.com/*"],
+          "js": ["content.js"]
+        }
+      ]
+}
