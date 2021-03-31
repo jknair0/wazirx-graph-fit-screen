@@ -1,0 +1,19 @@
+/* offer banner */
+#root > div > div.sc-cJSrbW.nOZlg {
+    display: none;
+}
+
+/* graph container */
+#root > div > div.sc-fYxtnH.dBizAF > div > div.sc-bdVaJa.sc-bMvGRv.fUYXgU > div > div:nth-child(1) > div > div > div.sc-dUjcNx.hrbEwZ.sc-fYiAbW.biLepa {
+    height: calc(100vh - 102px);
+}
+
+ /* graph */
+#root > div > div.sc-fYxtnH.dBizAF > div > div.sc-bdVaJa.sc-bMvGRv.fUYXgU > div > div:nth-child(1) > div > div > div.sc-dUjcNx.hrbEwZ.sc-fYiAbW.biLepa > div.sc-bdVaJa.sc-fhYwyz.eKbcJp {
+    height: calc(100vh - 107px);
+}
+
+/* footer */
+#root > div > div.sc-fYxtnH.dBizAF > section {
+    margin-top: 352px;
+}
